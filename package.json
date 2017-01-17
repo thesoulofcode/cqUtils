@@ -1,0 +1,26 @@
+{
+  "name": "cq-content-manipulations",
+  "version": "1.0.0",
+  "description": "Node leveraging jcr apis to manipulate the repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakurvivek/cqUtils.git"
+  },
+  "keywords": [
+    "node",
+    "cq",
+    "utilities",
+    "javascript",
+    "jcr"
+  ],
+  "author": "Vivek Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thakurvivek/cqUtils/issues"
+  },
+  "homepage": "https://github.com/thakurvivek/cqUtils#readme"
+}
